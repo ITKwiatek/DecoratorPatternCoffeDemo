@@ -22,7 +22,7 @@ Creates Coffe with ingredients layers
 ## Screenshots
 ![example](./DecoratorPattern/doc/example.png)
 ![code](./DecoratorPattern/doc/code.png)
-Output:
+Output:<br />
 ![output](./DecoratorPattern/doc/output.png)
 
 ## Project Status
