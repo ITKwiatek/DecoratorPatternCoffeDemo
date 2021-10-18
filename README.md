@@ -20,7 +20,7 @@ Creates Coffe with ingredients layers
 - Creating and calculating Coffee with addons like Caramel and Soya Milk
 
 ## Screenshots
-![image](./DecoratorPattern/doc/image.png)
+![example](./DecoratorPattern/doc/example.png)
 ![code](./DecoratorPattern/doc/code.png)
 
 ## Project Status
